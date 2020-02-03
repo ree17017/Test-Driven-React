@@ -1,0 +1,11 @@
+{
+  "name": "test-driven-carousel",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joshua Reed <joshuareed@workfront.com>",
+  "license": "ISC"
+  "scripts": {
+   "test": jest,
+  }
+}
